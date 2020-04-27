@@ -1,0 +1,6 @@
+﻿  task.cpp
+C:\Users\═рЄр\Desktop\IPS\task2\task_for_fourth_class\task4.2\task.cpp(126): warning #1079: return type of function "main" must be "int"
+    bool main()
+         ^
+  
+  task.vcxproj -> C:\Users\Ната\Desktop\IPS\task2\task_for_fourth_class\task4.2\Release\Task.exe
